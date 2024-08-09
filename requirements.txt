@@ -1,0 +1,13 @@
+pandas
+matplotlib
+seaborn
+numpy
+nltk
+wordcloud
+scikit-learn
+statsmodels
+islp
+transformers
+tqdm
+ipywidgets
+IPython
