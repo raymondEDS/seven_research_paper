@@ -11,7 +11,8 @@ This paper evaluates the fairness and influential factors in the peer review pro
 
 ```bash
 @misc{he,
-    title = "TBD",
+    title = "Assessing Fairness and Influential Dynamics in the Peer Review Process of
+Machine Learning Conferences",
     author = "He, Seven",
     month = Aug,
     year = "2024",
